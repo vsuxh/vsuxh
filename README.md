@@ -1,7 +1,5 @@
 ### ぬ。
-vsuxh、またの名を乙式です。
-音ゲーに狂った高専生
-JS勉強中
+
 
 <!--
 **vsuxh/vsuxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#vsuxh、またの名を乙式です。
+#音ゲーに狂った高専生
+#JS勉強中
